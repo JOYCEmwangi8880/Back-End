@@ -7,7 +7,7 @@ Clone the repository:
 
 
 # Copy code
-git clone https://github.com/your-username/flask-pos-app.git
+git clone https://github.com/JOYCEmwangi8880
 
 # Change into the project directory:
 cd flask-pos-app
